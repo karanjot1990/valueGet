@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">valueGet</string>
+    <string name="datashow">Datashow\n</string>
+    <string name="data_show">Datashow</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Email</string>
+    <string name="salary">Salary</string>
+    <string name="enter_salary">Enter_Salary</string>
+    <string name="idcode">IdCode</string>
+    <string name="enter_idCode">Enter_IdCode</string>
+    <string name="save">Save</string>
+</resources>
